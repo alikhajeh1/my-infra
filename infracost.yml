@@ -1,0 +1,8 @@
+version: 0.1
+
+projects:
+  - path: aws-project
+    usage_file: aws-project/infracost-usage.yml
+  - path: google-project
+    usage_file: google-project/infracost-usage.yml 
+
